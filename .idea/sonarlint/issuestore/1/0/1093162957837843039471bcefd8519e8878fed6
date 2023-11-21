@@ -1,0 +1,16 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(œÃýå
+E
+java:S3740"/Provide the parametrized type for this generic.(š£¢¥
+E
+java:S3740
+"/Provide the parametrized type for this generic.(…™µâ
+R
+java:S4973+"<Strings and Boxed types should be compared using "equals()".(—¥ÄÎ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Î„‹
+<
+java:S1168+"&Return an empty array instead of null.(—¥ÄÎ
+Q	java:S125+"<This block of commented-out lines of code should be removed.(—¥ÄÎ
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(”êÓ

@@ -1,0 +1,11 @@
+
+d
+java:S2259-"BA "NullPointerException" could be thrown; "prev" is nullable here.(“óâòúÿÿÿÿ8º³Ó·¹1
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(ÙÛşşÿÿÿÿ
+X
+java:S1854H"6Remove this useless assignment to local variable "l4".(÷¨åÿÿÿÿÿ8¥Ğ­·¹1
+]	java:S1254"<This block of commented-out lines of code should be removed.(²„‡úÿÿÿÿ8À‹¬·¹1
+I
+java:S1481H"'Remove this unused "l4" local variable.(÷¨åÿÿÿÿÿ8¨Ğ­·¹1
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(İçğ³
